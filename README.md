@@ -186,3 +186,4 @@ Found a bug? Please open an issue with:
 - Inspired by classical pathfinding algorithm visualizers
 - Built with modern React and TypeScript best practices
 - UI designed with accessibility and user experience in mind
+
